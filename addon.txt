@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "Bloodshed: Redux"
+	"author_name" "Author Name"
+	"info" "{"title":"Bloodshed: Redux","type":"gamemode","tags":["fun","scenic","realism"],"ignore":["!test/*","!fdqwf/*","1/*","models/murdered/decomp*","*.rar","*.smd","*.qc","!DONTTOUCH/*","!OLDFILES/*",".agent/*","*.github/*","*decompiled*","!zcity/*",".claude/*","*.md","*pt2.txt","!BACKUP/*","*.gif","*.mp4","!research/*",".codegraph/*","modelsrc/*","tests/*"]}"
+}

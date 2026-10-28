@@ -1,0 +1,8 @@
+"bloodshed"
+{
+	"base"		"base"
+	"title"		"Bloodshed: Redux"
+	"maps"		"^hmcd_|^md_|^mu_|^murder_|^bd_|^bs_"
+	"category"	"pvp"
+	"menusystem"	"1"
+}
